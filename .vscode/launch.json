@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ExchangeOfValue",
+      "request": "launch",
+      "mainClass": "ExchangeOfValue",
+      "projectName": "College_Studies_823f4d72"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
