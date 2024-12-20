@@ -1,4 +1,4 @@
-package Java.GP.VolumeCalculator;
+package Java.GP.Sequential_Structures.VolumeCalculator;
 
 import java.io.PrintStream;
 import java.util.Scanner;

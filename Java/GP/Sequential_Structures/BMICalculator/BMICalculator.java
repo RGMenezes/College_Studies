@@ -1,4 +1,4 @@
-package Java.GP.BMICalculator;
+package Java.GP.Sequential_Structures.BMICalculator;
 
 import java.io.PrintStream;
 import java.util.Scanner;

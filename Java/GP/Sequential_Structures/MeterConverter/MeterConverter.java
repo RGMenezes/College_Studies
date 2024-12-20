@@ -1,4 +1,5 @@
-package Java.GP.MeterConverter;
+package Java.GP.Sequential_Structures.MeterConverter;
+
 import java.io.PrintStream;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Java.GP.SpaceCovered;
+package Java.GP.Sequential_Structures.SpaceCovered;
 
 import java.io.PrintStream;
 import java.util.Scanner;

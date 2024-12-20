@@ -1,4 +1,4 @@
-package Java.GP.BanknoteCalculator;
+package Java.GP.Sequential_Structures.BanknoteCalculator;
 
 import java.io.PrintStream;
 import java.util.Scanner;

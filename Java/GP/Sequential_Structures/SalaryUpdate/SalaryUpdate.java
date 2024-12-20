@@ -1,4 +1,4 @@
-package Java.GP.SalaryUpdate;
+package Java.GP.Sequential_Structures.SalaryUpdate;
 
 import java.io.PrintStream;
 import java.util.Scanner;

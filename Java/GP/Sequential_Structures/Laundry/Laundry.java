@@ -1,4 +1,4 @@
-package Java.GP.Laundry;
+package Java.GP.Sequential_Structures.Laundry;
 
 import java.io.PrintStream;
 import java.util.Scanner;

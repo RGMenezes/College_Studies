@@ -1,3 +1,5 @@
+package Java.GP.Sequential_Structures.ExchangeOfValue;
+
 import java.io.PrintStream;
 import java.util.Scanner;
 

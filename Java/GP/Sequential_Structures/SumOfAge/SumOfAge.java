@@ -1,4 +1,4 @@
-package Java.GP.SumOfAge;
+package Java.GP.Sequential_Structures.SumOfAge;
 
 import java.io.PrintStream;
 import java.util.Scanner;

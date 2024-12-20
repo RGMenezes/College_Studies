@@ -1,4 +1,4 @@
-package Java.GP.AgeInDays;
+package Java.GP.Sequential_Structures.AgeInDays;
 
 import java.io.PrintStream;
 import java.util.Scanner;

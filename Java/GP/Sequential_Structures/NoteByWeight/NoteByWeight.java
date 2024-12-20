@@ -1,4 +1,4 @@
-package Java.GP.NoteByWeight;
+package Java.GP.Sequential_Structures.NoteByWeight;
 
 import java.io.PrintStream;
 import java.util.Scanner;

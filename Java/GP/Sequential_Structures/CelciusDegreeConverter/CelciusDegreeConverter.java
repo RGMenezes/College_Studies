@@ -1,4 +1,5 @@
-package Java.GP.CelciusDegreeConverter;
+package Java.GP.Sequential_Structures.CelciusDegreeConverter;
+
 import java.util.Scanner;
 
 public class CelciusDegreeConverter{
