@@ -9,11 +9,11 @@ public class MultiplesOfSeven {
     PrintStream print = System.out;
     int multiple;
 
-    print.print("Multiplicar o 7 até: ");
+    print.print("Limete para os multiplos de 7: ");
     multiple = input.nextInt();
 
     for(int counter = 1; counter * 7 <= multiple; counter += 1){
-      print.print(counter == 1 ? "7" : ", " + (7 * counter));;
+      print.print(counter == 1 ? "7" : ", " + (7 * counter));
     }
     print.println(".");
 
