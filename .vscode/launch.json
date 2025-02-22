@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exercicio02",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeSelecaoMultipla.Exercicio02.Exercicio02",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio01",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeSelecaoMultipla.Exercicio01.Exercicio01",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
             "name": "Exercicio09",
             "request": "launch",
             "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeSelecao.Exercicio09.Exercicio09",
