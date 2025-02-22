@@ -4,7 +4,69 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "Exercicio09",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeSelecao.Exercicio09.Exercicio09",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio08",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeSelecao.Exercicio08.Exercicio08",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio07",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeSelecao.Exercicio07.Exercicio07",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio06",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeSelecao.Exercicio06.Exercicio06",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio04",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeSelecao.Exercicio04.Exercicio04",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio03",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeSelecao.Exercicio03.Exercicio03",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio02",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeSelecao.Exercicio02.Exercicio02",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio01",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeSelecao.Exercicio01.Exercicio01",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio02",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeSelecao.Exercicio01.Exercicio02",
+            "projectName": "College_Studies_823f4d72"
+        },
         {
             "type": "node",
             "request": "launch",
