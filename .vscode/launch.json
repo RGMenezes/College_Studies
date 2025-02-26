@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Java.Tests.Main.Main",
+            "projectName": "College_Studies_61efef81"
+        },
+        {
+            "type": "java",
             "name": "Exercicio05",
             "request": "launch",
             "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeSelecaoMultipla.Exercicio05.Exercicio05",
