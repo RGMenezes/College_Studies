@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exercicio11",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeRepeticao.Exercicio11.Exercicio11",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio10",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeRepeticao.Exercicio10.Exercicio10",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio09",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeRepeticao.Exercicio09.Exercicio09",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio08",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeRepeticao.Exercicio08.Exercicio08",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio07",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeRepeticao.Exercicio07.Exercicio07",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
             "name": "Exercicio06",
             "request": "launch",
             "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeRepeticao.Exercicio06.Exercicio06",
