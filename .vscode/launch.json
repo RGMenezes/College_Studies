@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exercicio02",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.RevisaoP1.Exercicio02.Exercicio02",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio03",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.RevisaoP1.Exercicio03.Exercicio03",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio04",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.RevisaoP1.Exercicio04.Exercicio04",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
             "name": "Exercicio11",
             "request": "launch",
             "mainClass": "Java.LinguagemDeProgramacao.EstruturasDeRepeticao.Exercicio11.Exercicio11",
