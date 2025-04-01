@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exercicio04",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.Vetores.Exercicio04.Exercicio04",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio03",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.Vetores.Exercicio03.Exercicio03",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio02",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.Vetores.Exercicio02.Exercicio02",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio01",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.Vetores.Exercicio01.Exercicio01",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
             "name": "Exercicio02",
             "request": "launch",
             "mainClass": "Java.LinguagemDeProgramacao.RevisaoP1.Exercicio02.Exercicio02",
