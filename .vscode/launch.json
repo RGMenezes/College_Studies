@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exercicio05",
+            "request": "launch",
+            "mainClass": "Exercicio05",
+            "projectName": "College_Studies_61efef81"
+        },
+        {
+            "type": "java",
             "name": "Exercicio04",
             "request": "launch",
             "mainClass": "Java.LinguagemDeProgramacao.Vetores.Exercicio04.Exercicio04",
