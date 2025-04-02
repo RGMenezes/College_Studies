@@ -6,9 +6,30 @@ public class Exercicio06 {
     public static void main(String[] args) {
         @SuppressWarnings("resource")
         Scanner entradaDoTeclado = new Scanner(System.in);
-        String listaNomes[] = new String[30];
-        int listaIdade[] = new int[listaNomes.length];
+        final int TAMANHO_DA_LISTA = 30;
+        double media = 0;
+        String listaNomes[] = new String[TAMANHO_DA_LISTA];
+        int listaIdade[] = new int[TAMANHO_DA_LISTA];
 
+        for (int i = 0; i < TAMANHO_DA_LISTA; i++) {
+            System.out.print("\nDigite o nome: ");
+            listaNomes[i] = entradaDoTeclado.nextLine();
+
+            System.out.print("Digite a idade: ");
+            int idade = entradaDoTeclado.nextInt();
+            entradaDoTeclado.nextLine();
+
+            listaIdade[i] = idade;
+            media += idade;
+        }
+
+        media = media / TAMANHO_DA_LISTA;
+
+        for (int i = 0; i < TAMANHO_DA_LISTA; i++) {
+            if(listaIdade[i] > media){
+                System.out.println("\n" + listaNomes[i]);
+            }
+        }
     }
 }
 
