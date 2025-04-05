@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exercicio11",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.Funcoes.Exercicio11.Exercicio11",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio07",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.Funcoes.Exercicio07.Exercicio07",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio06",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.Funcoes.Exercicio06.Exercicio06",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio05",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.Funcoes.Exercicio05.Exercicio05",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio08",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.Funcoes.Exercicio08.Exercicio08",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio04",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.Funcoes.Exercicio04.Exercicio04",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio03",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.Funcoes.Exercicio03.Exercicio03",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio02",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.Funcoes.Exercicio02.Exercicio02",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio01",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.Funcoes.Exercicio01.Exercicio01",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
             "name": "Exercicio05",
             "request": "launch",
             "mainClass": "Java.LinguagemDeProgramacao.Matrizes.Exercicio05.Exercicio05",
