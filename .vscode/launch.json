@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exercicio01",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.FuncoesReferencias.Exercicio01.Exercicio01",
+            "projectName": "College_Studies_61efef81"
+        },
+        {
+            "type": "java",
             "name": "Exercicio11",
             "request": "launch",
             "mainClass": "Java.LinguagemDeProgramacao.Funcoes.Exercicio11.Exercicio11",
