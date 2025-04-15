@@ -5,20 +5,20 @@ import java.util.Random;
 public class Exercicio01 {
     public static void main(String[] args) {
         int vetor[] = new int[10];
-        PreencherVetor(vetor, -10, 10);
+        preencherVetor(vetor, -10, 10);
 
-        System.out.println(MostrarlVetor(vetor));
-        System.out.println(VerificarNumerosNegativos(vetor));
+        System.out.println(mostrarlVetor(vetor));
+        System.out.println(verificarNumerosNegativos(vetor));
     }
 
-    static void PreencherVetor(int vetor[], int min, int max){
+    static void preencherVetor(int vetor[], int min, int max){
         Random entradaAleatoria = new Random();
         for (int i = 0; i < vetor.length; i++) {
             vetor[i] = entradaAleatoria.nextInt(max + (-1 * min)) + min;
         }
     }
     
-    static String MostrarlVetor(int vetor[]){
+    static String mostrarlVetor(int vetor[]){
         String retorno = "";
         for (int i = 0; i < vetor.length; i++) {
             retorno += vetor[i] + " ";
@@ -26,7 +26,7 @@ public class Exercicio01 {
         return retorno;
     }
 
-    static int VerificarNumerosNegativos(int vetor[]){
+    static int verificarNumerosNegativos(int vetor[]){
         int contadorNumeroNegativo = 0;
         for (int i = 0; i < vetor.length; i++) {
             if(vetor[i] < 0){
