@@ -8,7 +8,6 @@ public class Exercicio04 {
         preencherVetor(vetor, -10, 10);
         System.out.println(mostrarVetor(vetor));
         ordenarVetor(vetor);
-        vetor = inverterVetor(vetor);
         System.out.println(mostrarVetor(vetor));
     }
 
@@ -16,22 +15,13 @@ public class Exercicio04 {
         for (int i = 0; i < vetor.length; i++) {
             for (int contadorAtual = 0; contadorAtual < vetor.length-1; contadorAtual++) {
                 int proximoContador = contadorAtual + 1;
-                if(vetor[proximoContador] < vetor[contadorAtual]){
+                if(vetor[proximoContador] > vetor[contadorAtual]){
                     int copia = vetor[contadorAtual];
                     vetor[contadorAtual] = vetor[proximoContador];
                     vetor[proximoContador] = copia;
                 }
             }
         }
-    }
-
-    static int[] inverterVetor(int vetor[]){
-        final int TAMANHO = vetor.length;
-        int vetorSecundario[] = new int[TAMANHO];
-        for (int i = 0; i < TAMANHO; i++) {
-            vetorSecundario[i] = vetor[TAMANHO - i - 1];
-        }
-        return vetorSecundario;
     }
 
     static void preencherVetor(int vetor[], int min, int max){

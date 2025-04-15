@@ -1,17 +1,29 @@
 package Java.LinguagemDeProgramacao.FuncoesReferencias.Exercicio07;
 
+import java.util.Random;
 import java.util.Scanner;
 
 public class Exercicio07 {
     public static void main(String[] args) {
         @SuppressWarnings("resource")
         Scanner entradaTeclado = new Scanner(System.in);
+        System.out.print("Digite uma palavra: ");
         String palavra = entradaTeclado.next();
-        char listaLetras[] = separarLetras(palavra);
+        String palavraEmbaralhada = embaralhar(palavra).toLowerCase();
+        System.out.println(palavra + " --> " + palavraEmbaralhada);
+        
     }
 
-    static char[] embaralhar(char[] listaLetras){
-        char novaLista[] = new String
+    static String embaralhar(String palavra){
+        char listaLetras[] = separarLetras(palavra);
+        Random entradaAleatoria = new Random();
+        for (int i = 0; i < listaLetras.length; i++) {
+            int destino = entradaAleatoria.nextInt(listaLetras.length);
+            char copiaLetraDestino = listaLetras[destino];
+            listaLetras[destino] = listaLetras[i];
+            listaLetras[i] = copiaLetraDestino;
+        }
+        return juntarLetras(listaLetras);
     }
 
     static String juntarLetras(char[] listaLetras){
