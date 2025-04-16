@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "JogoDaVelha",
+            "request": "launch",
+            "mainClass": "Java.LinguagemDeProgramacao.JogoDaVelha.JogoDaVelha",
+            "projectName": "College_Studies_61efef81"
+        },
+        {
+            "type": "java",
             "name": "Exercicio07",
             "request": "launch",
             "mainClass": "Java.LinguagemDeProgramacao.FuncoesReferencias.Exercicio07.Exercicio07",
