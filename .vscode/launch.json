@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Chunker",
+            "request": "launch",
+            "mainClass": "Java.Tests.Chuncker.Chunker",
+            "projectName": "College_Studies_61efef81"
+        },
+        {
+            "type": "java",
             "name": "JogoDaVelha",
             "request": "launch",
             "mainClass": "Java.LinguagemDeProgramacao.JogoDaVelha.JogoDaVelha",
