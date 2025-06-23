@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Java.ProgramacaoOO.Casa.Exercicio01.view.Main",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "view.Main",
             "projectName": "College_Studies_61efef81"
         },

@@ -1,4 +1,4 @@
-package Model.Automovel;
+package Java.ProgramacaoOO.Aula.Exercicio01.Model.Automovel;
 
 public class Automovel{
     public String proprietario;

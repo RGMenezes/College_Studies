@@ -1,5 +1,6 @@
-package view;
-import Model.Automovel.*;
+package Java.ProgramacaoOO.Aula.Exercicio01.view;
+import Java.ProgramacaoOO.Aula.Exercicio01.Model.Automovel.Automovel;
+import Java.ProgramacaoOO.Aula.Exercicio01.Model.Automovel.AutomovelSemiNovo;
 
 class Main{
     public static void main(String[] args) {
