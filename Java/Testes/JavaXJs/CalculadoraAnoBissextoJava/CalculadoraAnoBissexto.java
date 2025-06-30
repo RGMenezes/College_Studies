@@ -1,4 +1,4 @@
-package Java.Tests.JavaXJs.CalculadoraAnoBissextoJava;
+package Java.Testes.JavaXJs.CalculadoraAnoBissextoJava;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Java.Tests.LogicalExpressions.Class;
+package Java.Testes.LogicalExpressions.Class;
 
 public class BinaryTree {
     String proposition;

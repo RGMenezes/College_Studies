@@ -1,7 +1,7 @@
-package Java.Tests.LogicalExpressions.Solver;
+package Java.Testes.LogicalExpressions.Solver;
 
-import Java.Tests.LogicalExpressions.Class.BinaryTree;
-import Java.Tests.LogicalExpressions.Class.Expression;
+import Java.Testes.LogicalExpressions.Class.BinaryTree;
+import Java.Testes.LogicalExpressions.Class.Expression;
 
 public class Solver {
     public static void main(String[] args) {

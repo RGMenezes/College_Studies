@@ -1,4 +1,4 @@
-package Java.Tests.Chuncker;
+package Java.Testes.Chuncker;
 
 import java.io.*;
 import java.util.Scanner;
