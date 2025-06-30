@@ -15,6 +15,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Java.ProgramacaoOO.Casa.Exercicio02.view.Main",
+            "projectName": "College_Studies_61efef81"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "view.Main",
             "projectName": "College_Studies_61efef81"
         },
