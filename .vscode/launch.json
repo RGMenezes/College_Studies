@@ -8,6 +8,27 @@
             "type": "java",
             "name": "dataTest",
             "request": "launch",
+            "mainClass": "Java.ProgramacaoOO.Casa.Exercicio03.models.test.dataTest",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "lampadaTest",
+            "request": "launch",
+            "mainClass": "Java.ProgramacaoOO.Casa.Exercicio03.models.test.lampadaTest",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Java.ProgramacaoOO.Casa.Exercicio03.views.Main",
+            "projectName": "College_Studies_823f4d72"
+        },
+        {
+            "type": "java",
+            "name": "dataTest",
+            "request": "launch",
             "mainClass": "Java.ProgramacaoOO.Aula.Exercicio03.Test.dataTest",
             "projectName": "College_Studies_61efef81"
         },
