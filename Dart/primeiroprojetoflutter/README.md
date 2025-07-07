@@ -1,6 +1,6 @@
 # primeiroprojetoflutter
 
-A new Flutter project.
+little project read 'Olá mundo!'
 
 ## Getting Started
 
