@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Java.ProgramacaoOO.Aula.Exercicio05.view.Main",
+            "projectName": "College_Studies_61efef81"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Java.ProgramacaoOO.Aula.Exercicio04.view.Main",
+            "projectName": "College_Studies_61efef81"
+        },
+        {
+            "type": "java",
             "name": "dataTest",
             "request": "launch",
             "mainClass": "Java.ProgramacaoOO.Casa.Exercicio03.models.test.dataTest",
