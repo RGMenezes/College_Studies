@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Java.ProgramacaoOO.Aula.Exercicio08.view.Main",
+            "projectName": "College_Studies_61efef81"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Java.ProgramacaoOO.Aula.Exercicio07.view.Main",
+            "projectName": "College_Studies_61efef81"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Java.ProgramacaoOO.Aula.Exercicio06.view.Main",
             "projectName": "College_Studies_61efef81"
         },
