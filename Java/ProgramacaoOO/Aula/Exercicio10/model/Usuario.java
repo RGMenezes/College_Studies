@@ -30,11 +30,6 @@ public class Usuario {
     }
 
     public String listarLivros(){
-        StringBuilder mensagem = new StringBuilder();
-        mensagem.append("Livros emprestados por ").append(nome).append(":\n");
-        for (Livro livro : livrosEmprestados) {
-            mensagem.append(livro.toString()).append("\n");
-        }
-        return mensagem.toString();
+        return this.livrosEmprestados.toString();
     }
 }
