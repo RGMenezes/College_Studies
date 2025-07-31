@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Java.ProgramacaoOO.Aula.Exercicio11.view.Main",
+            "projectName": "College_Studies_61efef81"
+        },
+        {
+            "type": "java",
+            "name": "CarAgency",
+            "request": "launch",
+            "mainClass": "Java.GP.Array.CarAgency.CarAgency",
+            "projectName": "College_Studies_61efef81"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Java.ProgramacaoOO.Aula.Exercicio10.view.Main",
             "projectName": "College_Studies_61efef81"
         },
